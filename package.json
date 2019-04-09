@@ -1,7 +1,7 @@
 {
-  "name": "update-value-from-renderless-component-through-v-model",
+  "name": "vue-issue-8814",
   "version": "1.0.0",
-  "description": "https://github.com/vuejs/vue/issues/8814",
+  "description": "Update value from Renderless component through v-model",
   "main": "src/main.js",
   "private": true,
   "scripts": {
